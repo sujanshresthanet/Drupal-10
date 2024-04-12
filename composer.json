@@ -32,7 +32,8 @@
             "drupal/core-project-message": true,
             "phpstan/extension-installer": true,
             "dealerdirect/phpcodesniffer-composer-installer": true,
-            "php-http/discovery": true
+            "php-http/discovery": true,
+            "drupal/commerce": "^2.38"
         },
         "sort-packages": true
     },
